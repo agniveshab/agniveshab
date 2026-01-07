@@ -1,119 +1,84 @@
-# Agnivesh Ab
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Agnivesh Ab",
-  bio: "Computer Science Engineer",
-  currentWork: "Working on neural networking in quantum computing",
-  interests: "Mobile App Development,Frontend Development",
-  skills: [
-    "HTML5",
-    "CSS3",
-    "Material UI",
-    "Tailwind",
-    "Bootstrap",
-    "MySQL",
-    "Node.js",
-    "Django",
-    "MongoDB",
-    "Azure",
-    "Pandas",
-    "NumPy",
-    "Flutter",
-    "Android",
-    "C++",
-    "JavaScript",
-    "Python",
-    "Java",
-    "C"
-  ],
-}
-```
+# ✨ Agnivesh Ab ✨
+
+<p><em>Computer Science Engineer</em></p>
+
+<hr>
+
+</div>
 
 ## 🔭 I'm currently working on
 
-Working on neural networking in quantum computing
+<div align="center"><p>Working on neural networking in quantum computing</p></div>
 
 ## 👀 I'm interested in
 
-Mobile App Development, Frontend Development
+<div align="center"><p>Mobile App Development, Frontend Development</p></div>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=buefy"/>
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "HTML5",
-    "CSS3",
-    "Material UI",
-    "Tailwind",
-    "Bootstrap"
-  ],
-  "backend": [
-    "MySQL",
-    "Node.js",
-    "Django",
-    "MongoDB"
-  ],
-  "devops": [
-    "Azure"
-  ],
-  "ai/ml": [
-    "Pandas",
-    "NumPy"
-  ],
-  "mobile": [
-    "Flutter",
-    "Android"
-  ],
-  "languages": [
-    "C++",
-    "JavaScript",
-    "Python",
-    "Java",
-    "C"
-  ]
-}
-```
+<div align="center">
+
+**🎨 Frontend**
+
+`HTML5` • `CSS3` • `Material UI` • `Tailwind` • `Bootstrap`
+
+**⚙️ Backend**
+
+`MySQL` • `Node.js` • `Django` • `MongoDB`
+
+**🚀 DevOps**
+
+`Azure`
+
+**🧠 AI/ML**
+
+`Pandas` • `NumPy`
+
+**📱 Mobile**
+
+`Flutter` • `Android`
+
+**💬 Languages**
+
+`C++` • `JavaScript` • `Python` • `Java` • `C`
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  instagram: "agniveshab",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://instagram.com/agniveshab"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "agniveshab2701@gmail.com",
-  phone: "+91 8590651595",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** agniveshab2701@gmail.com
+**Phone:** +91 8590651595
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
