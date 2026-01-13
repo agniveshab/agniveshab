@@ -59,6 +59,3 @@ My goal is simple: **to become a good engineer by building real things.**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=agniveshab&icon=0&color=0" />
-</p>
