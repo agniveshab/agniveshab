@@ -1,61 +1,96 @@
-<h1 align="center">
-  Hi, I'm Agnivesh 👋
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Agnivesh.;I+build+digital+systems.;Engineering+%3E+Excuses." alt="Typing SVG" />
 
-<h3 align="center">
-  Computer Science Student | Engineering College
-</h3>
+  <h3>Aspiring Software Engineer | Building Practical Systems</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=22&center=true&vCenter=true&width=500&lines=Web+Development;UI%2FUX+Design;Backend+Development;AI+%26+Machine+Learning;Aspiring+Engineer" />
-</p>
+  <p align="center">
+    A Computer Science Engineering student from India focusing on Web Development, UI/UX Design, Backend Development, and AI/ML. My goal is to become a great engineer.
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
-I'm a computer science student at **Dhanalakshmi Srinivasan Engineering College**.  
-I work across web development, UI/UX, backend systems, and AI/ML.  
-My goal is simple: **to become a good engineer by building real things.**
+<div align="center">
+  <h3>⚡ Tech Stack</h3>
+  
+  <p><b>Frontend</b></p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  
+  <br/><br/>
+  
+  <p><b>Backend</b></p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <br/><br/>
+
+  <p><b>AI / ML</b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</div>
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agniveshab)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agniveshab2701@gmail.com)
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>🧠 AI-supported Medical Diagnostics System</h4>
+        <p><em>Tuberculosis detection using dataset adaptation approach</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow" />
+        </p>
+        <a href="https://github.com/agniveshab"><img src="https://img.shields.io/badge/View_Repo-121212?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      </td>
+      <td width="50%" align="center">
+        <h4>🌐 Full-Stack Web Application</h4>
+        <p><em>Comprehensive platform with modern UI/UX and RESTful backend</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+          <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        </p>
+        <a href="https://github.com/agniveshab"><img src="https://img.shields.io/badge/View_Repo-121212?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn)
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agniveshab&theme=merko&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agniveshab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=agniveshab&theme=merko&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agniveshab&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniveshab&theme=merko&layout=compact" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniveshab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <h3>💡 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
+</div>
 
 ---
+
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <br/>
+  <a href="mailto:agniveshab2701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/agniveshab">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
